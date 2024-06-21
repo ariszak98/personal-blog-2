@@ -1,0 +1,4 @@
+1.  When we want to add custom .js or .css files to our project. We add them to "/resources/js/.." or 
+    "resources/css.." and at the end we IMPORT everything to "/resources/js/app.js" file .js and .css
+    
+2.  
